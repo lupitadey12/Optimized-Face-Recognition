@@ -4,8 +4,10 @@ Single identity face recognition works even for obscured faces i.e for a face co
   The model novels in the fact that it is able to provide accurate recognition results inspite of the face being half-covered.<br />
   
   Usages: OpenCV for computer vision. <br />
+  
 **Model Constraints**<br />
 The only constraint for this recognition model is that it stores its database for recognition for one person only and thus cannot perform  multiple identity recognition.<br />
+
 **Application**<br />
 The model can find its application in the face recognition systems in our electronic devices which will be able to recognize the registered user without them having to remove their face mask which is very helpful in these pandemic times.
 
